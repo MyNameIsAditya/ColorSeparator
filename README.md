@@ -5,3 +5,7 @@ Created an application that seperates the color of an image based on RGB values.
 ## Technologies
 1. OpenCV
 2. NumPy
+
+## Pictures
+1. OpenCV
+2. NumPy

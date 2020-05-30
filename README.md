@@ -8,6 +8,7 @@ Created an application that separates the color of an image based on RGB values.
 
 ## Pictures
 ![WebPageImage1](https://github.com/MyNameIsAditya/ColorSeparator/blob/master/readme_images/Screenshot%20(670).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/ColorSeparator/blob/master/readme_images/Screenshot%20(676).png)
 ![WebPageImage1](https://github.com/MyNameIsAditya/ColorSeparator/blob/master/readme_images/Screenshot%20(671).png)
 ![WebPageImage1](https://github.com/MyNameIsAditya/ColorSeparator/blob/master/readme_images/Screenshot%20(672).png)
 ![WebPageImage1](https://github.com/MyNameIsAditya/ColorSeparator/blob/master/readme_images/Screenshot%20(673).png)
